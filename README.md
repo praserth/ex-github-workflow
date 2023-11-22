@@ -1,2 +1,2 @@
-# train_github
-example workflow cicd on databrick
+# ex_github_workflow
+example workflow cicd to databricks
