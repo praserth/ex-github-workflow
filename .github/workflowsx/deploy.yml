@@ -23,4 +23,4 @@ jobs:
         run: databricks repos list
 
       - name: Update databricks repo
-        run: databricks repos update /Repos/excom/bii-excom-report-pipeline --branch main
+        run: databricks repos update /Repos/<path>/<repos_name> --branch <branch_name>
